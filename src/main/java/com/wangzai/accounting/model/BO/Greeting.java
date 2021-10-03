@@ -1,4 +1,4 @@
-package com.wangwai.accounting.model;
+package com.wangzai.accounting.model.BO;
 
 public class Greeting {
     private Long id;

@@ -1,4 +1,4 @@
-package com.wangwai.accounting;
+package com.wangzai.accounting;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
